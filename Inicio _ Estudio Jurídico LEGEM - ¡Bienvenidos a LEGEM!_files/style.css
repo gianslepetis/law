@@ -1,0 +1,484 @@
+body {
+  background-color: #22272b;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ul, li {
+  font-family: "League Spartan", sans-serif;
+  color: #ffffff;
+}
+
+div.imglogolegemfooter {
+  text-align: center;
+}
+
+.bordleft {
+  border-left: 0.1rem solid #A39474;
+}
+
+p.pfooterindexarg {
+  font-size: 1.1rem;
+}
+
+a.afooterindexarg {
+  font-size: 1.1rem;
+}
+
+a.afooterindexarg:hover {
+  color: #6d716e;
+}
+
+p.legalnote {
+  padding-top: 1.5rem;
+  font-size: 1.2rem;
+}
+
+p.webdeveloper {
+  font-size: 1.2rem;
+}
+
+a.webdeveloper2:hover {
+  color: #6d716e;
+}
+
+.foothover:hover {
+  box-shadow: 0rem 0rem 1rem #7c745c;
+}
+
+.foothover2:hover {
+  box-shadow: 0rem 0rem 1rem #8d8167;
+}
+
+.foothover3:hover {
+  box-shadow: 0rem 0rem 1rem #a29475;
+}
+
+@media screen and (max-width: 991px) {
+  div.imglogolegemfooter {
+    text-align: center;
+  }
+
+  .bordbott {
+    border-bottom: 0.1rem solid #A39474;
+  }
+
+  .textadjust {
+    text-align: center;
+  }
+
+  .bordleft {
+    border-left: none;
+  }
+}
+nav.navbar-expand-lg.navbar-dark {
+  background-color: #22272b;
+}
+
+button.navbar-toggler.shadow-none {
+  border: none;
+}
+
+div ul li a.nav-link {
+  color: white;
+}
+
+a img.arg-leon {
+  width: 4rem;
+}
+
+a.active-inicio {
+  text-decoration: underline;
+  text-underline-position: under;
+  font-weight: bold;
+}
+
+div.carousel-caption {
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: initial;
+}
+
+button span.carousel-control-prev-icon {
+  align-self: flex-end;
+}
+
+button span.carousel-control-next-icon {
+  align-self: flex-end;
+}
+
+.car-slide-indexarg-h2 {
+  animation: fadeIn linear 2s;
+  -webkit-animation: fadeIn linear 2s;
+  -moz-animation: fadeIn linear 2s;
+  -o-animation: fadeIn linear 2s;
+  -ms-animation: fadeIn linear 2s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+p.car-slide-indexarg-p {
+  animation: fadeIn linear 3s;
+  -webkit-animation: fadeIn linear 3s;
+  -moz-animation: fadeIn linear 3s;
+  -o-animation: fadeIn linear 3s;
+  -ms-animation: fadeIn linear 3s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+h1.cssforh1 {
+  font-size: 5rem;
+  color: wheat;
+  text-shadow: 3px 3px 4px #22272b;
+  border-top: 0.2rem solid wheat;
+}
+
+h2.cssforh2 {
+  font-size: 4.1rem;
+  color: wheat;
+  text-shadow: 3px 3px 4px #22272b;
+  border-top: 0.2rem solid wheat;
+}
+
+p.cssforpcarousel {
+  font-size: 1.9rem;
+  color: white;
+  text-shadow: 1px 1px 3px #22272b;
+}
+
+button.button-areas-practica {
+  background-color: #22272b;
+}
+
+a.a-areas-practica {
+  color: #a39377;
+  text-decoration: none;
+}
+
+section.arg-index-section-2 {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+p.psection2indexarg1 {
+  font-size: 1.4rem;
+  color: #a39377;
+  font-weight: bold;
+}
+
+h2.h2section2indexarg {
+  font-size: 3.2rem;
+  font-weight: bold;
+}
+
+p.psection2indexarg2 {
+  font-size: 1.6rem;
+}
+
+@media screen and (max-width: 768px) {
+  h1.cssforh1 {
+    font-size: 3rem;
+  }
+
+  h2.cssforh2 {
+    font-size: 2.6rem;
+  }
+
+  p.cssforpcarousel {
+    font-size: 1.5rem;
+  }
+}
+a.active-estudio-arg {
+  text-decoration: underline;
+  text-underline-position: under;
+  font-weight: bold;
+}
+
+section.nuestro-estudio-section-2 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+h2.h2section2estudio {
+  font-size: 3rem;
+  font-style: italic;
+  text-align: center;
+  padding-bottom: 4rem;
+  color: #a39377;
+}
+
+p.psection2nuestroestudio {
+  font-size: 1.6rem;
+  padding-bottom: 1.5rem;
+  text-align: justify;
+}
+
+a.monica-lk-none {
+  text-decoration: none;
+}
+
+a.active-practica-arg {
+  text-decoration: underline;
+  text-underline-position: under;
+  font-weight: bold;
+}
+
+section.practica-section-2 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+h2.h2section2practica {
+  font-size: 2.4rem;
+  text-align: center;
+  padding-bottom: 4rem;
+  color: #a39377;
+}
+
+p.psection2adp {
+  font-size: 1.6rem;
+  padding-bottom: 1.5rem;
+  text-align: justify;
+}
+
+div.div-bandera-argentina {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+div.div-bandera-europa {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+img.img-argentina:hover {
+  box-shadow: 0rem 0rem 2rem #368cb4b7;
+}
+
+img.img-europa:hover {
+  box-shadow: 0rem 0rem 2rem #e25d3cb7;
+}
+
+.grow {
+  transition: all 0.4s ease-in-out;
+}
+.grow:hover {
+  transform: scale(1.03);
+}
+
+.borderbottpractband {
+  border-bottom: 1px solid #CBB17E;
+}
+
+.distance {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.grow2 {
+  transition: all 0.4s ease-in-out;
+}
+.grow2:hover {
+  transform: scale(1.03);
+}
+
+img.img-serv:hover {
+  box-shadow: 0rem 0rem 1.5rem #CBB17E;
+}
+
+.title-serveur {
+  padding-top: 8rem;
+}
+
+a.a-volver {
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+button.button-volver {
+  color: #a39377;
+  margin-bottom: 1rem;
+  background-color: #22272b;
+  border: 1px solid #22272b;
+}
+
+button.button-volver:hover {
+  text-decoration: underline;
+}
+
+ul.ulsubadp {
+  font-size: 1.5rem;
+}
+
+a.active-contacto-arg {
+  text-decoration: underline;
+  text-underline-position: under;
+  font-weight: bold;
+}
+
+section.contacto-section-2 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+h2.h2section2contacto {
+  font-size: 2.4rem;
+  text-align: center;
+  padding-bottom: 4rem;
+  color: #a39377;
+}
+
+#argcont {
+  justify-content: center;
+}
+
+img.img-serv-wpp:hover {
+  box-shadow: 0rem 0rem 1.5rem #1ebea5;
+}
+
+img.img-serv-face:hover {
+  box-shadow: 0rem 0rem 1.5rem #4b64ab;
+}
+
+img.img-serv-insta:hover {
+  box-shadow: 0rem 0rem 1.5rem #e04d53;
+}
+
+img.img-serv-linked:hover {
+  box-shadow: 0rem 0rem 1.5rem #0473b3;
+}
+
+img.img-serv-mail:hover {
+  box-shadow: 0rem 0rem 1.5rem #1d8af0;
+}
+
+img.mantenimiento {
+  padding-left: 8rem;
+  width: 90%;
+  height: 90%;
+}
+
+div.sect-team {
+  background-color: rgba(163, 147, 119, 0.144);
+}
+
+.equipo-h1 {
+  color: #c7ac7f;
+  font-size: 2.3rem;
+  padding-bottom: 0.5rem;
+}
+
+.equipo-h2 {
+  color: white;
+  font-size: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.equipo-h3 {
+  color: white;
+  font-size: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+div.equipo-padd-top {
+  padding-top: 4rem;
+}
+
+div.equipo-div-padding {
+  padding-top: 2rem;
+}
+
+a.equipo-linkedin {
+  text-decoration: none;
+}
+
+h3.equipo-linkedin2:hover {
+  color: #c7ac7f;
+}
+
+@media screen and (max-width: 991px) {
+  img.equipo-pic-padd-bot {
+    padding-bottom: 1rem;
+  }
+}
+p.titulos-blog {
+  font-size: 2.4rem;
+  color: #c7ac7f;
+}
+
+/*# sourceMappingURL=style.css.map */
